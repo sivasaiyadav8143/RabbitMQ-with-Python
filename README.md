@@ -14,4 +14,6 @@ communicates to other app, using HTTP protocol,the app does require immediate re
     If you want to access RabbitMQ from the web interface, we need to enable the RabbitMQ management plugin by using the below command on your RabbitMQ command prompt.
     >*rabbitmq-plugins enable rabbitmq_management* 
 
+4. Now open your browser and type http://localhost:15672 URL, you would see the RabbitMQ login page.
+
 
