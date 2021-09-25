@@ -15,7 +15,8 @@ communicates to other app, using HTTP protocol,the app does require immediate re
     >*rabbitmq-plugins enable rabbitmq_management* 
 
 4. Now open your browser and type http://localhost:15672 URL, you would see the RabbitMQ login page.<br>
-    Use **Username**: guest<br>
+    Default credentials are:<br>
+        **Username**: guest<br>
         **Password**: guest<br>
 
 
