@@ -18,5 +18,6 @@ communicates to other app, using HTTP protocol,the app does require immediate re
     Default credentials are:<br>
         **Username**: guest<br>
         **Password**: guest<br>
-
+5 .Install PIKA
+    >python -m pip install pika --upgrade
 
